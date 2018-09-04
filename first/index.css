@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+}
+
+header {
+    height: 200px;
+    background-color: #002F36;
+
+}
+
+.main-container {
+    height: calc(100vh - 200px);
+    background-color: #F4EEE2;
+}
+
+.content {
+    background-color: turquoise;
+    height: 90%;
+    width: 70%;
+    margin: 0 auto;
+}
+
+footer {
+    width: 70%;
+    height: 10%;
+    background-color: #738D9C;
+    margin: 0 auto;
+}
